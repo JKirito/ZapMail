@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_221-b11 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/KGradientPanel.jar lib/com.mysq
+ l.jdbc_5.1.5.jar lib/javax.mail.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: com.source.dao.MainController
+
